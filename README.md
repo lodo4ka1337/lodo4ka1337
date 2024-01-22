@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lodo4ka1337
+- 👋 Hi, I’m @lodo4ka1337 (aka Nikita Volegov)
 - 👀 I’m interested in java backend developing
 - 🌱 I’m currently learning java
 - 📫 For contact info: volegovnik2010@mail.ru
